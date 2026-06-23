@@ -1,0 +1,6 @@
+{
+  "name": "Letun Coffee",
+  "description": "Modern, premium website for ЛЕТУН (Letun Coffee) in Krasnodar, Russia, featuring a cozy dark theme, interactive menu, and cinematic details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
